@@ -1,9 +1,9 @@
 # Numsuko 🎲
 
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)  
-![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)  
-![Status](https://img.shields.io/badge/Status-Active-success)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)  
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![GitHub stars](https://img.shields.io/github/stars/roshhellwett/Numsuko?style=social)
 
 **Numsuko** is a simple command-line number guessing game written in C.  
